@@ -1,125 +1,132 @@
+# 👋 Hi, I'm Sayed Muhammad Subayyal
 
-# 👋 Hey, I'm Sayed Muhammad Subayyal
+### 🔐 Security Researcher | Ethical Hacker | Penetration Tester
 
-### 🔐 Security Researcher · Ethical Hacker · Penetration Tester
+I focus on web application security, vulnerability research, penetration testing, and offensive security. I also build tools for reconnaissance, API analysis, and network security monitoring.
 
-I’m a security researcher focused on **web application security, vulnerability research, penetration testing, and offensive security**.
+My work combines hands-on security testing, vulnerability reproduction, technical documentation, and Python development. I aim to understand how systems fail, demonstrate security issues with clear evidence, and help make applications more secure.
 
-I spend my time researching vulnerabilities, testing real-world applications, hunting bugs through responsible disclosure programs, and building tools that support security research and reconnaissance.
-
----
-
-## 🛡️ What I Do
-
-* 🔎 Vulnerability Research
-* 🌐 Web Application Penetration Testing
-* 🐛 Bug Bounty Hunting
-* 🎯 Responsible Vulnerability Disclosure
-* 🕵️ Reconnaissance & Attack Surface Discovery
-* 📡 Network & Wi-Fi Security
-* ⚔️ Offensive Security
-* 🐧 Linux Security Environments
-* 🧪 Security Labs & CTFs
-* 📚 Security Research & Documentation
+I am also the founder of **[SIPAR Security](https://github.com/siparsecurity)**, where I develop security tools and research projects.
 
 ---
 
-## 🧰 Security Toolkit
+## 🛡️ Areas of Focus
 
-**Security & Pentesting**
-
-`Burp Suite` · `Nmap` · `ffuf` · `Feroxbuster` · `Gobuster` · `SQLMap` · `Nikto` · `Masscan` · `RustScan` · `Subfinder` · `Amass`
-
-**Environments**
-
-`Kali Linux` · `Linux` · `Android`
-
-**Security Domains**
-
-`Web Security` · `Network Security` · `Wi-Fi Security` · `Reconnaissance` · `Vulnerability Assessment` · `Offensive Security`
+- 🔎 Web Application Security
+- 🐛 Vulnerability Research and Bug Bounty
+- 🌐 Application and API Security Testing
+- 🎯 Responsible Vulnerability Disclosure
+- 🗺️ Reconnaissance and Attack Surface Discovery
+- 📡 Network and Wi-Fi Security
+- 🐍 Python Security Tools and Automation
+- 🧪 Security Testing, Labs, and CTFs
+- 📚 Technical Research and Documentation
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-I build security tools and research projects focused on practical offensive security and security monitoring.
+### 📡 [Network Monitor V3](https://github.com/siparsecurity/network-monitor-v3)
 
-### 🔭 ShadowMap
+A Python-based network monitoring and threat detection project.
 
-Web reconnaissance tooling built for **penetration testers and bug bounty hunters**.
+- Discovers devices on a local network
+- Monitors device changes and network events
+- Detects suspicious activity, including ARP spoofing indicators and port scanning
+- Tracks threat levels and risk scores
+- Provides a web dashboard for monitoring events
 
-### 📡 Network Monitor
+### 🗺️ [ShadowMap](https://github.com/siparsecurity/shadowmap)
 
-A network monitoring and threat-detection project focused on **device discovery, event logging, risk scoring, and security monitoring**.
+A security reconnaissance project for penetration testers and bug bounty hunters. Explore the repository for its current features, setup instructions, and usage.
 
-➡️ **Explore all my work:**
-[github.com/sayedsubayyal](https://github.com/sayedsubayyal)
+### 🔬 [EchoRoute](https://github.com/siparsecurity/EchoRoute)
+
+A project focused on extracting API endpoint information from JavaScript bundles and source maps to support attack surface analysis.
+
+### 🏢 [SIPAR Security](https://github.com/siparsecurity)
+
+Explore my organization's repositories for more security tools, experiments, and development projects.
 
 ---
 
-## 🔬 Research
+## 🔬 Security Research
 
 ### Simulating and Mitigating Rogue Access Point Attacks in Wi-Fi Networks Using Open-Source Tools
 
-Research on **Rogue Access Point attacks in Wi-Fi networks**, including attack simulation, analysis, and practical mitigation using open-source security tools.
+Research focused on simulating rogue access point attacks, analyzing their effects, and evaluating practical mitigation techniques using open-source security tools.
 
-**Authors:** Sayed Muhammad Subayyal · İlhan Tarımer
+**Co-authors:** Sayed Muhammad Subayyal and İlhan Tarımer
+
+Explore my [GitHub repositories](https://github.com/sayedsubayyal) for projects and research code.
+
+---
+
+## 🧰 Tools and Technologies
+
+**Security Testing**
+
+`Burp Suite` · `Nmap` · `ffuf` · `Feroxbuster` · `Gobuster` · `SQLMap` · `Subfinder` · `Amass`
+
+**Development and Automation**
+
+`Python` · `REST APIs` · `Git` · `Linux`
+
+**Environments**
+
+`Kali Linux` · `Debian` · `Ubuntu` · `Android`
+
+My main interests are application security, reconnaissance, network security, and building practical tools for security testing.
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-Bug Bounty
-    ↓
-Vulnerability Research
-    ↓
-Web Application Security
-    ↓
-Offensive Security
-    ↓
-Continuous Research
-```
-
-Currently focused on **bug bounty hunting, vulnerability research, web security, penetration testing, and offensive security research**.
+- Finding and validating security vulnerabilities
+- Improving the quality of vulnerability reports and proof of concepts
+- Developing useful security tools with Python
+- Exploring web application and API attack surfaces
+- Improving project documentation, testing, and reproducibility
 
 ---
 
-## 📊 GitHub
+## 🤝 Security Work and Collaboration
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedsubayyal&show_icons=true&hide_border=true&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedsubayyal&layout=compact&hide_border=true&theme=transparent" height="165">
-</p>
+Through **[SIPAR Security](https://github.com/siparsecurity)**, I am interested in suitable collaboration opportunities involving:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayedsubayyal&hide_border=true&theme=transparent">
-</p>
+- Application and API security testing
+- Python scripting and automation
+- Security tool development
+- Vulnerability reproduction and technical documentation
+
+For inquiries, please contact **[SIPAR Security](https://github.com/siparsecurity)** or reach out through the contact links below.
 
 ---
 
-## 🌐 Connect
+## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/sayedsubayyal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://pk.linkedin.com/in/sayed-muhammad-subayyal-672b10316">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/sayed_subayyal">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://sayedmuhammadsubayyal.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-  </a>
-  <a href="mailto:sayedmuhammadsubayyal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedsubayyal&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedsubayyal&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sayedsubayyal&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
+- **GitHub:** [@sayedsubayyal](https://github.com/sayedsubayyal)
+- **SIPAR Security:** [GitHub Organization](https://github.com/siparsecurity)
+- **LinkedIn:** [Sayed Muhammad Subayyal](https://pk.linkedin.com/in/sayed-muhammad-subayyal-672b10316)
+- **X:** [@sayed_subayyal](https://x.com/sayed_subayyal)
+- **Blog:** [Read my articles](https://sayedmuhammadsubayyal.blogspot.com/)
+- **Email:** [Contact me](mailto:sayedmuhammadsubayyal@gmail.com)
+
+---
+
 <p align="center">
-  <i>Research. Break. Understand. Secure.</i>
+  <i>Research. Test. Understand. Secure.</i>
 </p>
